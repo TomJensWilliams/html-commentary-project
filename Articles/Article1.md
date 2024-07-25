@@ -25,6 +25,7 @@ In [another article]() I covered some of the history of how the WHATWG HTML Livi
 - [Intellectual Property Rights]()
 
 ## Introduction
+The Introduction has multiple parts, which explain where this specification fits, who the audience is, and what the scope is. It also comments on the relation of this document to HTML5, provides background and history, and provides a few sections on design notes, clarifying what could be confusing aspects of the document. Nearer the end, the Introduction section contains comments on the differences between HTML and XML syntax, and gives its on commentary on the rest of the Living Standard. The final subsections contain a quick introduction to HTML, conformance requirements for authors, and suggested further reading.
 
 ## Common Infrastructure
 
