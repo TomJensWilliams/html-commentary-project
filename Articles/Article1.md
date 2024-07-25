@@ -1,4 +1,4 @@
-# Introduction
+# Preface
 In [another article]() I covered some of the history of how the WHATWG HTML Living Standard came to be. In this article I will give a brief overview of the contents of the WHATWG HTML Living Standard, describing its main divisions and sub-divisions.
 
 ## Sections Of The Text
