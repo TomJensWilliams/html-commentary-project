@@ -2,7 +2,7 @@
 In [another article]() I covered some of the history of how the WHATWG HTML Living Standard came to be. In this article I will give a brief overview of the contents of the WHATWG HTML Living Standard, describing its main divisions and sub-divisions.
 
 ## Sections Of The Text
-1. [Introduction]()
+1. [Introduction](## Introduction)
 2. [Common Infrastructure]()
 3. [Sematics, Structure, And APIs of HTML documents]()
 4. [The Elements Of HTML]()
