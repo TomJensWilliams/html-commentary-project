@@ -4,7 +4,7 @@ In [another article]() I covered some of the history of how the WHATWG HTML Livi
 ## Sections Of The Text
 1. [Introduction](#Introduction)
 2. [Common Infrastructure](#common-infrastructure)
-3. [Sematics, Structure, And APIs of HTML documents]()
+3. [Sematics, Structure, And APIs of HTML documents](#sematics-structure-and-apis-of-html-documents)
 4. [The Elements Of HTML]()
 5. [Microdata]()
 6. [User Interaction]()
