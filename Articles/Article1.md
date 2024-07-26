@@ -34,6 +34,7 @@ In the words of the Living Document itself, this section contains "non-normative
 <!-- Section 1.12 should probably just be mentioned in passing, but I should check out the resources. -->
 
 ## Common Infrastructure
+In the words of the Living Document itself, this section contains "the conformance classes, algorithms, definitions, and the common underpinnings of the rest of the specification." It is composed of seven sub-sections, which differ greatly in length. The first sub-section is very large, and it goes through many terms, explaining what is mean by them in this document, as well as adding commentary on the relatd topics. The second sub-section, by contrast, is only three lines long, and it defines two policy controlled features.The third subsection explores the useable data types and rules for their use, and the fourth sub-section discusses URLs and rules around their use. The fifth, sixth, and seventh subsection of the Common Infrastructure section discuss convetions around fetching data, multiple acceptable ways of interfacing with the DOM, and safely passing structured data, respectively.
 
 ## Sematics, Structure, And APIs of HTML documents
 
